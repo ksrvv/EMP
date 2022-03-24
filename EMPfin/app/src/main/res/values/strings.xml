@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Сделать</string>
+    <string name="note_text">Введите текст задачи</string>
+    <string name="note_details_title">Задача</string>
+    <string name="save">Сохранить</string>
+    <string name="completed">Выполнено</string>
+    <string name="title_text">Введите заголовок задачи</string>
+    <string name="add">Добавить</string>
+    <string name="label"> to do       to do      to do to do to do to do to dooo to do do do do</string>
+</resources>
